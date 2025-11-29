@@ -1,0 +1,4 @@
+name: "astrbot_plugin_course_reminder"
+version: "1.0.0"
+author: "YourName"
+desc: "课程表插件，支持录入并在课前30分钟QQ提醒"
